@@ -12,3 +12,8 @@ Admin credentials :
 
 - Email - admin@gmail.com
 - Password - admin123
+
+client credentials : 
+
+- Email - client@gmail.com
+- Password - client123
