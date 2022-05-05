@@ -3,7 +3,7 @@ This is a simple E commerce webapp developed using MERN stacks for an online sho
 
 # How to run the App
 
-1. Install all the dependencies and packages in seperate terminals, frontend and backend with **npm install**.(use **cd** command to naviate to the frontend and backend)
+1. Install all the dependencies and packages in seperate terminals, frontend and backend with **npm install**. (use **cd** command to navigate to the frontend and backend)
 2. Start the backend and frontend seperately with **npm start** or **npm run dev**
 
 
